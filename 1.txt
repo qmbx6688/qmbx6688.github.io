@@ -1,6 +1,6 @@
 {
-"口令密码": "梧高凤必至❁花香蝶自来",
-"隐藏专区": "",
+"口令密码": "芝麻开门",
+"隐藏专区": "https://www.lanzout.com/b04wj4cna",
 "蓝奏云接口": "https://lanzoux.com/filemoreajax.php",
   "分享内容":"无",
   "群KEY":"",
