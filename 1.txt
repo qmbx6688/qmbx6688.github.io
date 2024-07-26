@@ -124,10 +124,6 @@
 
   "首页列表": [
     {
-      "图片": "http://p.ananas.chaoxing.com/star3/origin/3b3c1945f34cd769769375d9f7c5bf14.png",
-      "链接": "https://www.qdqqd.com/xjj/index.html"
-    },
-    {
       "图片": "http://p.ananas.chaoxing.com/star3/origin/3c5f63d710236bdc57dcd53a92ff4c89.png",
       "链接": "https://xingye.me/game/kuafuzhuiri/"
     },
@@ -154,10 +150,6 @@
     {
       "图片": "http://p.ananas.chaoxing.com/star3/origin/8f19e62e6b15acb617d4850903b65008.png",
       "链接": "https://xingye.me/game/utu.html?url=https://cdn.198434.com/cli/H5/sheep2sheepkun/"
-    },
-    {
-      "图片": "http://p.ananas.chaoxing.com/star3/origin/e2b63bf30e35c06ebc75fcf932e8eed9.png",
-      "链接": "https://xingye.me/game/mofang/index.html"
     },
     {
       "图片": "http://p.ananas.chaoxing.com/star3/origin/a82e2e3c2f32bb7a5a3c6b9890cda664.png",
