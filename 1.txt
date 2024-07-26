@@ -1,0 +1,201 @@
+{
+"口令密码": "梧高凤必至❁花香蝶自来",
+"隐藏专区": "",
+"蓝奏云接口": "https://lanzoux.com/filemoreajax.php",
+  "分享内容":"无",
+  "群KEY":"",
+  "启动页图片":"http://p.ananas.chaoxing.com/star3/origin/b6e790fcd24b961242707c3fc69fd43c.png",
+  "启动页跳转":"",
+  "启动页标题":"奇妙宝箱",
+  "启动页副标题":"用心发现·择优分享",
+  "启动页跳转时间":"5",
+
+  "公告标题":"欢迎使用奇妙宝箱",
+  "公告内容":"梧高凤必至·花香蝶自来",
+  "公告图片": "http://p.ananas.chaoxing.com/star3/origin/a93e2f815e4286c1c2358ed5075d7f62.png",
+  "公告按钮一":"朕已阅",
+  "公告按钮一跳转":"",
+  "公告按钮二":"",
+  "公告按钮二跳转":"",
+  "公告按钮三":"",
+  "公告按钮三跳转":"",
+  
+  "当前版本": "3.3.2",
+  "更新标题": "发现新版本",
+  "更新内容": "修复部分bug，旧版停止使用，请更新最新版本",
+  "强制更新": "开启",
+  "更新按钮一":"更新1",
+  "更新按钮一跳转":"https://wwk.lanzouj.com/",
+  "更新按钮二":"更新2",
+  "更新按钮二跳转":"https://wwk.lanzouj.com/",
+  "更新按钮三":"更新3",
+  "更新按钮三跳转":"https://wwk.lanzouj.com/",
+
+  "界面一标题": "首页",
+  "界面一副标题": "欢迎使用奇妙宝箱、今天也要开心吖~",
+  "首页滚动公告": "",
+  "首页文字": "休闲摸鱼",
+
+  "界面二标题": "软件",
+  "界面二副标题": "软件日更✅   如若软件失效等待更新即可、",
+
+  "界面三标题": "发现",
+  "界面三副标题": "",
+
+  "界面四标题": "更多",
+  "界面四副标题": "梧高凤必至·花香蝶自来",
+  "界面四文字一": "奇妙宝箱",
+  "界面四文字二": "用心发现",
+  "界面四文字三": "择优分享",
+
+  "界面四选项": [
+    {
+      "标题": "使用帮助",
+      "副标题": "软件常见问题",
+      "链接": "https://sharechain.qq.com/052f7e2a3fc69c241e08c082ec921efc"
+    },
+    {
+      "标题": "免责声明",
+      "副标题": "用户使用须知",
+      "链接": "https://sharechain.qq.com/d0a6ab23f1d971176ed85888feb22237"
+    },
+    {
+      "标题": "百度一下",
+      "副标题": "有问题找度娘",
+      "链接": "https://m.baidu.com/"
+    },
+    {
+      "标题": "检查更新",
+      "副标题": "已是最新版本",
+      "链接": ""
+    }
+  ],
+
+  "软件分类": [
+    {
+      "标题": "[好玩实用]",
+      "任务": "关闭",
+      "链接": "https://lanzout.com/b04wj4cmj",
+      "置顶": [
+
+      ]
+    },
+    {
+      "标题": "[影音说漫]",
+      "任务": "关闭",
+      "链接": "https://lanzout.com/b04wj4cna",
+      "置顶": [
+
+      ]
+    },
+     {
+      "标题": "[游戏专区]",
+      "任务": "关闭",
+      "链接": "https://lanzout.com/b04wlou7e",
+      "置顶": [
+
+      ]
+    },
+     {
+      "标题": "[其他专区]",
+      "任务": "关闭",
+      "链接": "http://www.freeok.vip",
+      "置顶": [
+
+      ]
+    }
+  ],
+
+  "首页轮播图": [
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/14d5d5838224d5cca9e930eb02164ace.png",
+      "链接": "https://y-03.cn/2ZnyxC"
+    },
+    {
+      "标题": "",
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/831cf93480f54ebdcc03a2b887e48ead.png",
+      "链接": "https://y-03.cn/31jaM3"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/37793d7ff6517b344ebbb9cf736e011f.png",
+      "链接": "https://y-03.cn/3SQGWH"
+    }
+  ],
+
+  "首页列表": [
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/3b3c1945f34cd769769375d9f7c5bf14.png",
+      "链接": "https://www.qdqqd.com/xjj/index.html"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/3c5f63d710236bdc57dcd53a92ff4c89.png",
+      "链接": "https://xingye.me/game/kuafuzhuiri/"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/caacb6afe7f655805c31943596ebfff2.png",
+      "链接": "https://xingye.me/game/utu.html?url=https://littlegame.tomato123.cn/xiyou/index.html"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/48a2c4e1c07c2e0578c13976fc019eeb.png",
+      "链接": "https://xingye.me/game/FlowersVsZombies/"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/cfa645868eb099e3833ca358d754bb67.png",
+      "链接": "https://www.yikm.net/play?id=4137"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/bcbfa7a5fc9160af9f1db5a0aa9c2e59.png",
+      "链接": "https://www.yikm.net/play?id=3501"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/b8031230730c10aab0481f6c57f73cc2.png",
+      "链接": "http://guozhivip.com/fun/els/"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/8f19e62e6b15acb617d4850903b65008.png",
+      "链接": "https://xingye.me/game/utu.html?url=https://cdn.198434.com/cli/H5/sheep2sheepkun/"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/e2b63bf30e35c06ebc75fcf932e8eed9.png",
+      "链接": "https://xingye.me/game/mofang/index.html"
+    },
+    {
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/a82e2e3c2f32bb7a5a3c6b9890cda664.png",
+      "链接": "https://xingye.me/game/qjm/index.html"
+    }
+  ],
+
+  "线报列表": [
+    {
+      "标题": "低价代刷百货铺子",
+      "内容": "天天免费领名片赞",
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/14d5d5838224d5cca9e930eb02164ace.png",
+      "链接": "https://y-03.cn/2ZnyxC"
+    },
+    {
+      "标题": "反馈超稳假期赚米",
+      "内容": "空闲时间赚零花",
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/37793d7ff6517b344ebbb9cf736e011f.png",
+      "链接": "https://y-03.cn/3SQGWH"
+    },
+    {
+      "标题": "全网查隐藏优惠券",
+      "内容": "购物不领券，白花冤枉钱",
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/831cf93480f54ebdcc03a2b887e48ead.png",
+      "链接": "https://y-03.cn/31jaM3"
+    }
+  ],
+
+  "任务标题": "标题",
+  "任务副标题": "副标题",
+  "任务地址": "地址",
+  "任务图标": "图标",
+  "任务答案": "答案",
+  "任务步骤": [
+    {
+      "标题": "标题",
+      "内容": "内容",
+      "图片": "图片"
+    }
+  ]
+}
