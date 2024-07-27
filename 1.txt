@@ -55,9 +55,9 @@
       "链接": "https://kurl03.cn/7gVojH"
     },
     {
-      "标题": "免责声明",
-      "副标题": "用户使用须知",
-      "链接": "https://sharechain.qq.com/d0a6ab23f1d971176ed85888feb22237"
+      "标题": "检测更新",
+      "副标题": "已是最新版本",
+      "链接": ""
     },
     {
       "标题": "百度一下",
@@ -175,7 +175,8 @@
       "标题": "全网查隐藏优惠券",
       "内容": "购物不领券，白花冤枉钱",
       "图片": "http://p.ananas.chaoxing.com/star3/origin/831cf93480f54ebdcc03a2b887e48ead.png",
-      "链接": "https://y-03.cn/31jaM3"
+      "链接": "https://kzurl11.cn/7xlfJk
+"
     }
   ],
 
