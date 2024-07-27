@@ -136,7 +136,7 @@
       "链接": "https://xingye.me/game/FlowersVsZombies/"
     },
     {
-      "图片": "http://p.ananas.chaoxing.com/star3/origin/cfa645868eb099e3833ca358d754bb67.png",
+      "图片": "http://p.ananas.chaoxing.com/star3/origin/256842c363e821dddf78bfdf7c7dc704.png",
       "链接": "https://www.yikm.net/play?id=4137"
     },
     {
